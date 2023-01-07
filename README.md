@@ -1,0 +1,3 @@
+# SmartLearn-proto
+
+initial phase
